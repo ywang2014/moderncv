@@ -323,7 +323,7 @@
 % loads a body variant
 % usage: \moderncvbody{<body variant number>}
 \newcommand*{\moderncvbody}[1]{
-  \RequirePackage{moderncvbody#1}}
+  \expandafter\RequirePackage\expandafter{\expandafter moderncvbody\romannumeral #1}}
 
 % loads a footer variant
 % usage: \moderncvfooter{<footer variant number>}
