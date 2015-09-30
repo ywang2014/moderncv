@@ -27,3 +27,5 @@ URL: https://github.com/xdanaux/moderncv
 作者：Xavier Danaux <xdanaux@gmail.com><br/>
 授权证书：The LaTeX Project Public Li­cense, version 1.3c<br/>
 链接地址：https://github.com/xdanaux/moderncv
+
+## 用 **LaTeX** 编辑的个人简历模板类
